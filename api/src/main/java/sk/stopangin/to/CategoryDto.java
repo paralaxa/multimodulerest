@@ -5,8 +5,10 @@ import java.io.Serializable;
 /**
  *
  */
-public class CategoryDto implements Serializable{
+public class CategoryDto implements Serializable {
     private String name;
+    private String testField;
+
 
     public String getName() {
         return name;
