@@ -2,6 +2,9 @@ package sk.stopangin.to;
 
 import java.io.Serializable;
 
+/**
+ *
+ */
 public class CategoryDto implements Serializable{
     private String name;
 
