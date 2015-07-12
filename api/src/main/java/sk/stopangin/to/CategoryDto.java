@@ -7,7 +7,7 @@ import java.io.Serializable;
  */
 public class CategoryDto implements Serializable {
     private String name;
-    private String testField;
+    private String testField3;
 
 
     public String getName() {
