@@ -9,6 +9,7 @@ public class ExpenseDto implements Serializable {
     private String title;
     private String desc;
     private CategoryDto category;
+    private String test2;
 
     public String getTitle() {
         return title;
